@@ -1,0 +1,44 @@
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\MyBlood.exe.config
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\MyBlood.exe
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\MyBlood.pdb
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\MyBlood.xml
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.Form1.resources
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.Resources.resources
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.exe
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.xml
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.pdb
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\MyBlood.exe.manifest
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\MyBlood.application
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.exe.manifest
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.application
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.AdminForm.resources
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\bin\Debug\Newtonsoft.Json.xml
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.TambahEditEvent.resources
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.TambahEditPendonor.resources
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.AboutDialog.resources
+E:\NotesAPI\WindowsApplication1\WindowsApplication1\obj\Debug\MyBlood.EventDetail.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\bin\Debug\MyBlood.exe.config
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.exe
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.xml
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.pdb
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.AboutDialog.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.AdminForm.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.EventDetail.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.Form1.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.Resources.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.TambahEditEvent.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\MyBlood.TambahEditPendonor.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\bin\Debug\Volunteer.exe.config
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.AboutDialog.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.AdminForm.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.EventDetail.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.Form1.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.Resources.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.TambahEditEvent.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.TambahEditPendonor.resources
+D:\KULIAH\WEBSERVICE\New folder\WindowsApplication1\obj\Debug\Volunteer.xml
